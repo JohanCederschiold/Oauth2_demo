@@ -6,3 +6,6 @@ spring:
                     github:
                         clientId: dummyId
                         clientSecret: dummySecret
+                    google:
+                        clientId: dummyId
+                        clientSecret: dummySecret
